@@ -24,4 +24,9 @@ color: #979DA6;
 text-decoration: none;
 }
 
+main {
+display: flex;
+justify-content: center;
+}
+
 }
