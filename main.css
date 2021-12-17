@@ -7,7 +7,16 @@ padding: 0px;
 
 nav {
 width: 100%;
-background-color: blue;
+background-color: #F2D64B;
+}
+
+.navli {
+list-style-type: none;
+}
+
+.nava {
+color: #979DA6;
+text-decoration: none;
 }
 
 }
